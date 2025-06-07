@@ -1,6 +1,8 @@
 # Quick Use Guide:
-On the home page for this repo click on the green Code Button 
+On the home page for this repo click on the green Code Button
+
 ![](pics/green_button.png)
+
 and download the repository your preferred way to the directory of your choice.
 In the file system navigate to the folder you saved. Right click in the folder and select "open in command line". Then type `setup.bak` and answer information as prompted. 
 # What this installs and Does:
