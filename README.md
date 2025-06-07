@@ -1,10 +1,12 @@
 # Quick Use Guide:
-On the home page for this repo click on the green Code Button and download repository your preferred way to the directory of your choice.
+On the home page for this repo click on the green Code Button 
+![](pics/green_button.png)
+and download the repository your preferred way to the directory of your choice.
 In the file system navigate to the folder you saved. Right click in the folder and select "open in command line". Then type `setup.bak` and answer information as prompted. 
 # What this installs and Does:
 
 ## Installations:
-> [!Note]
+> [!note]
 > This is designed to be easy for the simple Windows computer user. There may be pieces I don't describe with the "most correct" term. That is not the point. If you know what this is in more detail that is great. I am trying to not scare people away from using useful software. Additionally, there may be alternatives you prefer. That's what forking a repo is for.
 ### Firefox
 My prefered web browser over Edge.
