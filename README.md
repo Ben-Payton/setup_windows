@@ -12,19 +12,19 @@ In the file system navigate to the folder you saved. Right click in the folder a
 > This is designed to be easy for the simple Windows computer user. There may be pieces I don't describe with the "most correct" term. That is not the point. If you know what this is in more detail that is great. I am trying to not scare people away from using useful software. Additionally, there may be alternatives you prefer. That's what forking a repo is for.
 ### [Firefox](https://www.mozilla.org/en-US/firefox/download/thanks/)
 My prefered web browser over Edge.
-### Obsidian
+### [Obsidian](https://help.obsidian.md/)
 A mark down based note taking app with a robust community plugins.
-### Zotero
+### [Zotero](https://www.zotero.org/support/)
 A citation manager that has a good plugin for the firefox browser and Microsoft Word that makes citing references easy.
-### Git
+### [Git](https://git-scm.com/)
 Version control software commonly used by programmers to set "checkpoints" in their work.
-### VS Code
+### [VS Code](https://code.visualstudio.com/)
 Text editor and programming software. Analogous to Word, but for code. 
-### Miniconda
+### [Miniconda](https://learning.anaconda.com/courses/get-started-with-anaconda?utm_campaign=learning&utm_medium=documentation&utm_source=anacondadocs&utm_content=distroindexbutton)
 Light weight Python programmin language environment and package manager.
-### R programming language
+### [R programming language](https://cran.r-project.org/manuals.html)
 A statistics based programming language.
-### RStudio
+### [RStudio](https://posit.co/download/rstudio-desktop/)
 Like VS Code but specifically for R.
 
 ## Sets up
@@ -33,13 +33,13 @@ These are the types of things that you only have to do once per computer and it'
 Entering a username and email in to git are something you only need to do once per computer and then never again. It can be annoying to look up the command you need so this just gives you a prompt and then performs those commands for you.
 ### scienv Python Environment
 a basic miniconda python environment with some common libraries installed below they are listed and described
-- numpy: allows for fast linear algebra and array calculations
-- scipy: contains functionality useful for statistics
-- matplotlib: making plots and graphs
-- pandas: working with tabular data (like excel but python)
-- seaborn: builds on matplotlib to make plots prettier easier
-- jupyter: allows you to open python notebooks
-- ben_sci_tools: a package I have made for my convenience  
+- [numpy](https://numpy.org/doc/stable/): allows for fast linear algebra and array calculations
+- [scipy](https://docs.scipy.org/doc/scipy/): contains functionality useful for statistics
+- [matplotlib](https://matplotlib.org/): making plots and graphs
+- [pandas](https://pandas.pydata.org/docs/): working with tabular data (like excel but python)
+- [seaborn](https://seaborn.pydata.org/): builds on matplotlib to make plots prettier easier
+- [jupyter](https://docs.jupyter.org/en/latest/): allows you to open python notebooks
+- [ben_sci_tools](https://pypi.org/project/ben-sci-tools/): a package I have made for my convenience  
 ### Prefered User Directories
 Makes some directories that I like to use as an organization system
 - 01_Projects: This is where things with a specific end date go. (i.e. group_project1, class1_chapter2_notes, house_design).
