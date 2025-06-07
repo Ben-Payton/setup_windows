@@ -10,7 +10,7 @@ In the file system navigate to the folder you saved. Right click in the folder a
 ## Installations:
 > [!note]
 > This is designed to be easy for the simple Windows computer user. There may be pieces I don't describe with the "most correct" term. That is not the point. If you know what this is in more detail that is great. I am trying to not scare people away from using useful software. Additionally, there may be alternatives you prefer. That's what forking a repo is for.
-### Firefox
+### [Firefox](https://www.mozilla.org/en-US/firefox/download/thanks/)
 My prefered web browser over Edge.
 ### Obsidian
 A mark down based note taking app with a robust community plugins.
