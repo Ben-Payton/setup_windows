@@ -4,7 +4,9 @@ On the home page for this repo click on the green Code Button
 ![](pics/green_button.png)
 
 and download the repository your preferred way to the directory of your choice.
-In the file system navigate to the folder you saved. Right click in the folder and select "open in command line". Then type `setup.bak` and answer information as prompted. 
+In the file system navigate to the folder you saved. Right click in the folder and select "open in command line". If you cannot see the "open in command line" option you may also type "cmd" in the address bar (highlighted in red below) and press enter.
+![](pics/how_to_open_cmd.png)
+Then type `setup.bak` and answer information as prompted. 
 # What this installs and Does:
 
 ## Installations:
