@@ -7,5 +7,4 @@ winget install -e --id RProject.R
 winget install -e --id Posit.RStudio
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id Mozilla.Firefox
-wsl --install
 exit
